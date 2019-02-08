@@ -1,0 +1,5 @@
+**/.idea/*
+**/Dataset_A/*
+**/__pycache__/*
+**/*.docx
+.DS_Store
